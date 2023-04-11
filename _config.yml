@@ -1,12 +1,12 @@
-title      : scott.cgi
+title      : aiworkcn.com
 lang       : zh
-description: 编程写作 / 迭代认知 / 执行计划
-copyright  : © 2018 - 2023 scott.cgi All Rights Reserved
+description: 人工智能 / 企业服务 / 产品应用
+copyright  : © 2014 - 2023 aiworkcn.com All Rights Reserved
 
 nav:
- - name: 中文
+ - name: 关于
    link: /
- - name: 编程人生
+ - name: 人工智能
    link: /code-life/
  - name: En
    link: /about/
