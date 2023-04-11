@@ -4,9 +4,9 @@ description: 人工智能 / 企业服务 / 产品应用
 copyright  : © 2014 - 2023 aiworkcn.com All Rights Reserved
 
 nav:
- - name: 关于
+ - name: me
    link: /blog/
- - name: 人工智能
+ - name: (AI)
    link: /blog/aicode/
- - name: En
+ - name: en
    link: /blog/about/
